@@ -20,9 +20,9 @@
 # - FTP (21) : File Transfer
 
 # 파이선 내부적으로 TCP 소켓을 지원
-import socket
-mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-mysock.connect(('data.pr4e.org', 80))
+#import socket
+#mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#mysock.connect(('data.pr4e.org', 80))
 # 'data.pr4e.org' - 호스트     80 - 포트
 
 
@@ -57,19 +57,19 @@ mysock.connect(('data.pr4e.org', 80))
 #   기준은 "RFCs"라고 부름 - "Request for Comments"
 
 # Python 에서의 HTTP 요청
-import socket
+#import socket
 
-mysock = socket.socket(socket.AF_INET, socket.SOCK_STRAM)
-mysock.connect(('data.pr4e.org',80))
-cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\r\n\r\n'.encode()
-mysock.send(cmd)
+#mysock = socket.socket(socket.AF_INET, socket.SOCK_STRAM)
+#mysock.connect(('data.pr4e.org',80))
+#cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\r\n\r\n'.encode()
+#ysock.send(cmd)
 
-while True:
-    data = mysock.recv(512)
-    if (len(data) < 1) :
-        break
-    print(data.decode(),end='')
-mysock.close()
+#while True:
+#    data = mysock.recv(512)
+#    if (len(data) < 1) :
+#        break
+#    print(data.decode(),end='')
+#mysock.close()
 
 # 문자와 문자열에 대해
 #   ASCII(American Standard Code for Information Interchange)
@@ -113,3 +113,18 @@ type(x)
 #   네트워크 소켓 등 외부 자원과 통신하는 경우, 문자열이 아니라 Byte 형식을 사용해야함.
 #   따라서 파이썬 3에서는 문자열을 Byte로 인코딩 필요.
 #   외부에서 데이터를 가져오는 경우 해당 문자셋에 대하여 디코딩을 해야 파이썬3에서 정상적인 문자열으로 사용할 수 있다.
+
+# 파이썬에서의 HTTP요청
+#import socket
+
+#mysocket =  socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#mysock.connect(('data.pr4e.org',80))
+#cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\n\n'.encode()
+#mysock.send(cmd)#
+#
+#while True:
+#    data = mysock.recv(512)
+#    if(len(data) < 1):
+#        break
+#    print(data.decode())
+#mysock.close()
