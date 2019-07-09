@@ -13,6 +13,7 @@
 
 = 4.7.0 (20181231)
 
+
 * Beautiful Soup's CSS Selector implementation has been replaced by a
   dependency on Isaac Muse's SoupSieve project (the soupsieve package
   on PyPI). The good news is that SoupSieve has a much more robust and
