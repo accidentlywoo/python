@@ -15,7 +15,10 @@ Pytorch
  
  8/12~8/18 : tensorflow DL, ML
  
- 8/19~8/25 : 선형대수, 기초통계, ML/DL정리, Scikit,Pandas,Numpy정리
+ 8/19~8/25 : 선형대수, 기초통계, Scikit,Pandas,Numpy정리, ML/DL정리
  
  8/26~ : ADsP공부, 포트폴리오제작(Java Spring Boot + React + Python(컨버팅방법 꼭 배워놓기))
  
+ - Java Spring Hibernate, Webflux 실습. (서버 기술**)
+ 
+ - NoSQL실습 : 몽고디비 사용해보기 : 간단한 SNS서비스 만들기 (인스타 베이스)
