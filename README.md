@@ -1,24 +1,8 @@
 ﻿# python
 
-7/1~7/15 : Python Basic / Data Basic
-
-7/15~7/22 : [머신러닝 탐구생활] - Kaggling / KOOC AI & ML / Algorithm
-
-7/22~7/29 : 기초 데이터 분석 / Basic ML, DNN, CNN, RNN - 
-Pytorch
-
-7/29~8/4 : Pytorch Deep Learning
- / 기초 데이터 분석 복습 / 크롤링 복습 및 데이터 수집 시작.
- / 선형대수 정리
- 
- 8/5~8/11 : Scikit* / tensorflow
- 
- 8/12~8/18 : tensorflow DL, ML
- 
- 8/19~8/25 : 선형대수, 기초통계, Scikit,Pandas,Numpy정리, ML/DL정리
- 
- 8/26~ : ADsP공부, 포트폴리오제작(Java Spring Boot + React + Python(컨버팅방법 꼭 배워놓기))
- 
- - Java Spring Hibernate, Webflux 실습. (서버 기술**)
- 
- - NoSQL실습 : 몽고디비 사용해보기 : 간단한 SNS서비스 만들기 (인스타 베이스)
+10/4째 주 : OS중간고사, Python Algoritm, 논문중간보고서 작성, AWS 컨퍼런스 참여
+10/5째 주 ~ 11/1째 주 : 중간시험공부(OS, internet, algorithm, network,Computer Instructor)  데이터베이스 시스템 중간고사
+11/2째 주 : 서버공부 시작, ML공부, The Java, JPA
+11/3째 주 : 논문 작성1, 서버 공부, JPA, Sprint MVC
+11/4째 주 : 논문 작성2, 서버 공부, JPA, Sprint REST API
+12/1째 주 : 기말고사, 논문 작성3 서버 공부
