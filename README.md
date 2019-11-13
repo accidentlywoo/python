@@ -1,13 +1,21 @@
 ﻿# python
 
-10/4째 주 : OS중간고사, Python Algoritm, 논문중간보고서 작성, AWS 컨퍼런스 참여
+11/3째 주 : 논문 작성1(틀잡아보기), 서버 공부, JPA, Git(스터디), Spring, ML 개론1 (Kaist)
 
-10/5째 주 ~ 11/1째 주 : 중간시험공부(OS, internet, algorithm, network, Computer Instructor)  데이터베이스 시스템 중간고사
+11/4째 주 : 논문 작성2(틀잡아보기), 서버 공부, JPA, Git(스터디), Spring, toyProject*(소프트웨어 - 중간발표), ML 개론1 (Kaist)
 
-11/2째 주 : 서버공부 시작, ML공부, The Java, JPA
+12/1째 주 : 기말고사, 논문 작성3(구성) ,서버 공부, Git(스터디), ML 개론1 (Kaist)
 
-11/3째 주 : 논문 작성1, 서버 공부, JPA, Sprint MVC
+12/2째 주 : 기말고사, 논문 작성4(구성) , Git(스터디),서버 공부, ML 개론1 (Kaist)
 
-11/4째 주 : 논문 작성2, 서버 공부, JPA, Sprint REST API
+12/3째 주 : 논문 작성5(연구 항목 리스트), 서버 공부, ML 개론1 (Kaist)
 
-12/1째 주 : 기말고사, 논문 작성3 ,서버 공부
+12/4째 주 : 논문 작성6 , ML 개론1 (Kaist)
+
+1/1째 주 : 논문 작성7 , ML 개론2 (Kaist)
+
+1/2째 주 : 논문 작성8 , ML 개론2 (Kaist)
+
+1/3째 주 : 논문 작성9 , ML 개론2 (Kaist)
+
+1/4째 주 : 논문 작성10 , ML 개론2 (Kaist)
