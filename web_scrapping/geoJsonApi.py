@@ -19,7 +19,7 @@ while True:
 
     try:
         js = json.loads(data)
-    except:
+    except: 
         js = None
 
     if not js or 'status' not in js or js['status'] != 'OK':
